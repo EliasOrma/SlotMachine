@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/kuvat">
+        <file>diamond.png</file>
+        <file>slot-machine.png</file>
+        <file>bigwin.png</file>
+        <file>cherries.png</file>
+        <file>strawberry.png</file>
+        <file>cherry.png</file>
+        <file>jackpot.png</file>
+    </qresource>
+</RCC>
