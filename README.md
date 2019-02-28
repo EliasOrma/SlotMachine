@@ -4,5 +4,5 @@ A typical fruit slotmachine that lets you insert money,spin the reels
 and calculates winnings after reels are spinned
 
 # What I Learned
-- Qt Frontend managing with c++
+- Qt Frontend managing with C++
 - C++ objects usage
